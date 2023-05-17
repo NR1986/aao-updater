@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AAO Updater
 // @namespace    https://lss.nirolp.de/
-// @version      1.0
+// @version      1.1
 // @description  F?gt der Navbar einen Button hinzu ?ber diesen man die aktuelle Version der AAO von NiRoLP sehen kann und ggf. dar?ber updaten kann.
 // @updateURL    https://aao-update.nirolp.de/script/aao-updater.user.js
 // @match        https://www.leitstellenspiel.de/
