@@ -66,4 +66,4 @@
         listItem.appendChild(button);
         navbar.appendChild(listItem);
     }
-})();
+})
